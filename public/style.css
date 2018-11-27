@@ -62,3 +62,11 @@ code {
   background-color: #FFFEC4;
   padding: 2px;
 }
+
+.footer {
+  background: #fff;
+  margin-top: 45px;
+  padding: 2px;
+  max-width: 680px;
+  text-align: center;
+}
